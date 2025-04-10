@@ -1,4 +1,4 @@
-# trabalhoPizza
+# trabalhoPizzas
 ![index](https://github.com/user-attachments/assets/5540fb7a-4c65-4a1e-9892-fa8ebe7b9a72)
 
 ![login](https://github.com/user-attachments/assets/d0569def-481c-40a1-8aa8-5f1d72c74796)
